@@ -840,6 +840,15 @@ ul.simplefilter {
 
 /*-- Contact --*/
 
+.office-photo {
+	padding: 0 50px 50px 0;
+}
+
+.office-img {
+	width: 100%;
+	border-radius: 10px;
+}
+
 .agiilecontactw3layouts {
 	padding: 100px 0;
 }
